@@ -1,0 +1,6 @@
+framework module Pods_PK_Shop {
+  umbrella header "Pods-PK-Shop-umbrella.h"
+
+  export *
+  module * { export * }
+}
